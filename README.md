@@ -2,6 +2,7 @@
 
 | iOS | Android |
 |:--:|:--:|
+| <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/my-first-flutter/iOS_icon.png" width=120> | <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/my-first-flutter/Android_icon.png" width=120> |
 | <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/my-first-flutter/iOS.png" width=256> | <img src="https://github.com/hackenbacker/image-host/blob/main/imgs/my-first-flutter/Android.png" width=256> |
 
 

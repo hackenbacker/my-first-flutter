@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'NextPage.dart';
+import 'next_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -35,7 +35,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("自己紹介"),
+        title: const Text("自己紹介"),
       ),
       body: Padding(
         padding: const EdgeInsets.all(12.0),

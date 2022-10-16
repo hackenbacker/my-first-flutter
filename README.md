@@ -9,4 +9,6 @@
 
 This is a modified version of **Flutter App** created during the **"Learn Flutter with Samples"** hands-on training held at [Enginner Cafe](https://engineercafe.jp/ja/) in Fukuoka Japan.
 
-・[YouTube](https://youtu.be/98lH93RERwo)
+# Notes
+・[YouTube](https://youtu.be/98lH93RERwo)<br>
+・[How to make an AppIcon for Flutter (in Japanese)](https://qiita.com/Hackenbacker/items/eeb644abfe2c41bf2121)
